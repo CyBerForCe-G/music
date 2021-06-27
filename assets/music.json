@@ -1,0 +1,117 @@
+{
+    "music": [
+        {
+            "id" : 1,
+            "name": "Deewana kar rha hai ",
+            "Tagline": "hello",
+            "color": "0xffa11431",
+            "desc": "Movie",
+            "url": "https://mymp3bhojpuri.in/files/download/id/5275",
+            "icon": "http://1.bp.blogspot.com/-TMDnL99W1J8/UGVGRkQttBI/AAAAAAAAAAo/V1HDwB7vpqc/s1600/Untitled-1.jpg",
+            "image": "http://1.bp.blogspot.com/-TMDnL99W1J8/UGVGRkQttBI/AAAAAAAAAAo/V1HDwB7vpqc/s1600/Untitled-1.jpg",
+            "lang": "Hindi",
+            "category": "Pop",
+            "disliked": false,
+            "order": 1
+        },
+
+        {
+            "id" : 2,
+            "name": "Raanjhanaa",
+            "Tagline": "hello",
+            "color": "0xff221420",
+            "desc": "Movie",
+            "url": "https://pagalfree.com/musics/128-Raanjhanaa%20-%20Raanjhanaa%20128%20Kbps.mp3",
+            "icon": "https://en.wikipedia.org/wiki/Raanjhanaa_(soundtrack)#/media/File:Raanjhanaa_(Original_Motion_Picture_Soundtrack).jpg",
+            "image": "https://en.wikipedia.org/wiki/Raanjhanaa_(soundtrack)#/media/File:Raanjhanaa_(Original_Motion_Picture_Soundtrack).jpg",
+            "lang": "Hindi",
+            "category": "Pop",
+            "disliked": false,
+            "order": 2
+        },
+        {
+            "id" : 3,
+            "name": "Pyaar k pal",
+            "Tagline": "hello",
+            "color": "0xff221420",
+            "desc": "Movie",
+            "url": "https://pagalworldsongs.me/dl/download.php?id=53774&kbps=128kbps",
+            "icon": "https://en.wikipedia.org/wiki/Raanjhanaa_(soundtrack)#/media/File:Raanjhanaa_(Original_Motion_Picture_Soundtrack).jpg",
+            "image": "https://en.wikipedia.org/wiki/Raanjhanaa_(soundtrack)#/media/File:Raanjhanaa_(Original_Motion_Picture_Soundtrack).jpg",
+            "lang": "Hindi",
+            "category": "Pop",
+            "disliked": false,
+            "order": 3
+        },
+        {
+            "id" : 4,
+            "name": "Adaat",
+            "Tagline": "hello",
+            "color": "0xff221420",
+            "desc": "Movie",
+            "url": "https://pagalfree.com/musics/128-Aadat%20-%20Kalyug%20128%20Kbps.mp3",
+            "icon": "https://en.wikipedia.org/wiki/Raanjhanaa_(soundtrack)#/media/File:Raanjhanaa_(Original_Motion_Picture_Soundtrack).jpg",
+            "image": "https://en.wikipedia.org/wiki/Raanjhanaa_(soundtrack)#/media/File:Raanjhanaa_(Original_Motion_Picture_Soundtrack).jpg",
+            "lang": "Hindi",
+            "category": "Pop",
+            "disliked": false,
+            "order": 4
+        },
+        {
+            "id" : 5,
+            "name": "Jiya Dhadak Dhadak jaye",
+            "Tagline": "hello",
+            "color": "0xff221420",
+            "desc": "Movie",
+            "url": "https://pagalfree.com/musics/128-Jiya%20Dhadak%20Dhadak%20Jaye%20-%20Kalyug%20128%20Kbps.mp3",
+            "icon": "https://en.wikipedia.org/wiki/Raanjhanaa_(soundtrack)#/media/File:Raanjhanaa_(Original_Motion_Picture_Soundtrack).jpg",
+            "image": "https://en.wikipedia.org/wiki/Raanjhanaa_(soundtrack)#/media/File:Raanjhanaa_(Original_Motion_Picture_Soundtrack).jpg",
+            "lang": "Hindi",
+            "category": "Pop",
+            "disliked": false,
+            "order": 5
+        },
+        {
+            "id" : 6,
+            "name": "Tujhe Dekh Dekh ",
+            "Tagline": "hello",
+            "color": "0xff221420",
+            "desc": "Movie",
+            "url": "https://pagalfree.com/musics/128-Tujhe%20Dekh%20Dekh%20-%20Kalyug%20128%20Kbps.mp3",
+            "icon": "https://en.wikipedia.org/wiki/Raanjhanaa_(soundtrack)#/media/File:Raanjhanaa_(Original_Motion_Picture_Soundtrack).jpg",
+            "image": "https://en.wikipedia.org/wiki/Raanjhanaa_(soundtrack)#/media/File:Raanjhanaa_(Original_Motion_Picture_Soundtrack).jpg",
+            "lang": "Hindi",
+            "category": "Pop",
+            "disliked": false,
+            "order": 6
+        },
+        {
+            "id" : 7,
+            "name": "Ghoongroo",
+            "Tagline": "hello",
+            "color": "0xff221420",
+            "desc": "Movie",
+            "url": "https://pagalfree.com/musics/128-Ghungroo%20-%20War%20128%20Kbps.mp3",
+            "icon": "https://en.wikipedia.org/wiki/Raanjhanaa_(soundtrack)#/media/File:Raanjhanaa_(Original_Motion_Picture_Soundtrack).jpg",
+            "image": "https://en.wikipedia.org/wiki/Raanjhanaa_(soundtrack)#/media/File:Raanjhanaa_(Original_Motion_Picture_Soundtrack).jpg",
+            "lang": "Hindi",
+            "category": "Pop",
+            "disliked": false,
+            "order": 7
+        },
+        {
+            "id" : 8,
+            "name": "Jai Jai Shiv Shankar",
+            "Tagline": "hello",
+            "color": "0xff221420",
+            "desc": "Movie",
+            "url": "https://pagalfree.com/musics/128-Jai%20Jai%20Shivshankar%20-%20War%20128%20Kbps.mp3",
+            "icon": "https://en.wikipedia.org/wiki/Raanjhanaa_(soundtrack)#/media/File:Raanjhanaa_(Original_Motion_Picture_Soundtrack).jpg",
+            "image": "https://en.wikipedia.org/wiki/Raanjhanaa_(soundtrack)#/media/File:Raanjhanaa_(Original_Motion_Picture_Soundtrack).jpg",
+            "lang": "Hindi",
+            "category": "Pop",
+            "disliked": false,
+            "order": 8
+        }
+    ]
+}
